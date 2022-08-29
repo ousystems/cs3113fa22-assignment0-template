@@ -5,6 +5,9 @@ Template for Assignment 0 CS 3113 Fall 2022
 
 ## Name 
 
+## How to build
+
+
 ## How to run
 
 
@@ -15,7 +18,5 @@ Template for Assignment 0 CS 3113 Fall 2022
 
 
 ## Tests
-
-
 
 
